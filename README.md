@@ -9,9 +9,10 @@ for dictionary usage and development.
 Dictionary Sources
 -------
 
-This repository only contains dictionaries which are *not* auto-imported, so
-which were converted once or written by hand. If you are searching for *all*
-dictionary sources, you should instead go to <https://freedict.org/downloads>,
+This repository only contains dictionaries which are manually written. It is
+**not** the official FreeDict source. Please visit
+<https://freedict.org/downloads> to view all sources or
+<https://download.freedict.org/generated> for the imported/gneerated ones.
 where you find the latest source releases of all dictionaries.
 Auto-imported dictionaries can also be found at
 <https://download.freedict.org/generated>.
