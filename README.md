@@ -3,7 +3,7 @@ FreeDict - free bilingual dictionaries
 
 The FreeDict project aims at providing free (open source) dictionary databases,
 to be used both by humans and machines.
-The official home is at <http://freedict.org>, where you can find documentation
+The official home is at <https://freedict.org>, where you can find documentation
 for dictionary usage and development.
 
 Dictionary Sources
@@ -12,10 +12,7 @@ Dictionary Sources
 This repository only contains dictionaries which are manually written. It is
 **not** the official FreeDict source. Please visit
 <https://freedict.org/downloads> to view all sources or
-<https://download.freedict.org/generated> for the imported/gneerated ones.
-where you find the latest source releases of all dictionaries.
-Auto-imported dictionaries can also be found at
-<https://download.freedict.org/generated>.
+<https://download.freedict.org/generated> for the imported/generated ones.
 
 Development
 -----------
