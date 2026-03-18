@@ -20,7 +20,7 @@
 			<editionStmt>
 				<edition>0.4.1</edition>
 			</editionStmt>
-        <extent>8505 headwords</extent>
+        <extent>8506 headwords</extent>
 			<publicationStmt>
 				<publisher>FreeDict</publisher>
 				<availability>
@@ -124485,6 +124485,24 @@
 					</cit>
 					<cit type="trans">
 						<quote>wake up</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form>
+					<orth>réverbération</orth>
+					<pron>ʀevɛʀbeʀasjɔ̃</pron>
+				</form>
+				<gramGrp>
+					<pos>n</pos>
+					<gen>fem</gen>
+				</gramGrp>
+				<sense>
+					<cit type="trans">
+						<quote>reverberation</quote>
+					</cit>
+					<cit type="trans">
+						<quote>reflection</quote>
 					</cit>
 				</sense>
 			</entry>
